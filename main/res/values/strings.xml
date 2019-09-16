@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Accento</string>
+    <string name="write_yout_text_here">Write yout text here :</string>
+    <string name="japenese_excent">Japenese Excent</string>
+    <string name="speak">Speak</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Italian</item>
+    </string-array>
+</resources>
